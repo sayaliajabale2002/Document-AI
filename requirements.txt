@@ -1,0 +1,23 @@
+fastapi
+pydantic
+uvicorn
+
+langchain
+langchain-google-genai
+langgraph
+dotenv
+langchain-community
+
+sqlite-vec
+faiss-cpu
+# faiss-gpu
+chromadb
+
+#for uploading pdf in fastapi
+multipart
+ython-multipart
+
+pypdf
+
+streamlit 
+torchvision
